@@ -6,9 +6,12 @@ Overview
 
 The objective of this project is to automatically classify physical activities from sensor readings collected by a smartphone placed at the waist. The dashboard supports single sample classification, batch evaluation of datasets and simulated live streaming of sensor inputs. The interface also provides biomechanical visualization using a 3D skeleton model and waveform plots that represent accelerometer and gyroscope patterns for each prediction.
 
-Dataset
+Dataset Download
 
-The project uses the UCI Human Activity Recognition Using Smartphones dataset. The dataset contains 561 preprocessed statistical features extracted from inertial sensor data captured from 30 volunteers performing daily activities. The dataset includes training and testing splits and does not require relabeling.
+This project uses the UCI Human Activity Recognition Using Smartphones Dataset.
+The dataset is not bundled with the repository because of file size.
+
+Download the official dataset from the link below:
 
 Dataset source: https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
